@@ -1,0 +1,27 @@
+{
+  "name": "atlcrime-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "cheerio": "^0.22.0",
+    "connect": "^2.14.5",
+    "connect-inject": "^0.4.0",
+    "express": "^4.2.0",
+    "jsftp": "^1.5.5",
+    "mongodb": "^2.2.11",
+    "mysql": "^2.12.0",
+    "path": "^0.12.7",
+    "request": "^2.78.0",
+    "underscore": "^1.8.3",
+    "x-ray": "^2.3.2",
+    "xlsx": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

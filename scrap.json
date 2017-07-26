@@ -1,0 +1,105 @@
+{
+  "title": "\r\n\t\r\n    Atlanta Police Department : Crime Data Downloads\r\n\r\n",
+  "items": [
+    {
+      "title": "Weekly Crime Reports (PDF)",
+      "items": []
+    },
+    {
+      "items": [
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=1143",
+          "text": "2017 Week 18 Crime Report"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=764",
+          "text": "2017 Week 12 Crime Report"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=220",
+          "text": "UCR Code Sheet"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=218",
+          "text": "APD Boundaries (SHAPE)"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=216",
+          "text": "APD Boundaries (KML-Google)"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=1145",
+          "text": "2017 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=662",
+          "text": "2016 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=212",
+          "text": "2015 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=210",
+          "text": "2014 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=208",
+          "text": "2013 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=206",
+          "text": "2012 APD Weekly Crime Reports"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=204",
+          "text": "2011 APD Weekly Crime Reports"
+        }
+      ]
+    },
+    {
+      "title": "Raw Crime Data Download",
+      "items": []
+    },
+    {
+      "items": [
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=1150",
+          "text": "COBRA - YTD 2017 (Updated 5/17/17)"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=668",
+          "text": "COBRA-YTD2016"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=238",
+          "text": "COBRA-YTD2015"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=236",
+          "text": "COBRA-YTD2014"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=234",
+          "text": "COBRA-YTD2013"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=232",
+          "text": "COBRA-YTD2012"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=230",
+          "text": "COBRA-YTD2011"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=228",
+          "text": "COBRA-YTD2010"
+        },
+        {
+          "href": "http://www.atlantapd.org/Home/ShowDocument?id=226",
+          "text": "COBRA-YTD2009"
+        }
+      ]
+    }
+  ]
+}
